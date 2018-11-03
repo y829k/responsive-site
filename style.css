@@ -1,4 +1,7 @@
-img{
+.flexible-images{
+    background-image:url("img_work_site.png");
+    background-size:cover;
+    background-position: center center;
     width:100%;
     height:500px;
 }
@@ -62,7 +65,7 @@ footer{
         
         
     }
-    img{
+    .flexible-images{
         height:250px;
     }
 }
